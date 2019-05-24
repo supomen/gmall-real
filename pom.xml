@@ -12,6 +12,9 @@
     <modules>
         <module>gmallreal-common</module>
         <module>gmallreal-mock</module>
+        <module>gmallreal-logger</module>
+        <module>gmallreal-realtime</module>
+        <module>gmallreal-canal</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
